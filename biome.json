@@ -38,8 +38,5 @@
       "quoteStyle": "double"
     }
   },
-  "extends": [
-    "ultracite/biome/core",
-    "ultracite/biome/remix"
-  ]
+  "extends": ["ultracite/biome/core", "ultracite/biome/remix"]
 }
